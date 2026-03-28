@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://irha.my.id/notes'
 languageCode = 'en-us'
 title = 'Notes Irham'
 theme = "nostyle"
