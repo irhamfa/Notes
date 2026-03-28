@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/notes/posts/</loc>
     <lastmod>2026-02-26T15:20:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/puasa-day-3/</loc>
+    <loc>http://localhost:1313/notes/posts/puasa-day-4-6/</loc>
+    <lastmod>2026-02-24T16:23:02+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/posts/puasa-day-3/</loc>
     <lastmod>2026-02-21T16:22:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/puasa-day-2/</loc>
+    <loc>http://localhost:1313/notes/posts/puasa-day-2/</loc>
     <lastmod>2026-02-20T16:22:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/puasa-day-1/</loc>
+    <loc>http://localhost:1313/notes/posts/puasa-day-1/</loc>
     <lastmod>2026-02-26T15:20:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/marhaban-tiba-marhaban-tiba/</loc>
+    <loc>http://localhost:1313/notes/posts/marhaban-tiba-marhaban-tiba/</loc>
     <lastmod>2026-02-18T16:15:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mencari-maaf/</loc>
+    <loc>http://localhost:1313/notes/posts/mencari-maaf/</loc>
     <lastmod>2026-02-02T16:11:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/notes/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/notes/tags/</loc>
   </url>
 </urlset>

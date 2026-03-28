@@ -13,9 +13,9 @@
 title = "Notes"
 
   [entries.post_list]
-  limit = 5
+  limit = 8
   show_more = true
-  show_more_text = "See archive..."
+  show_more_text = "See more..."
   show_more_url = "posts"
 
 #[[entries]]

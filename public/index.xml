@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes Irham</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/notes/</link>
     <description>Recent content on Notes Irham</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2026 15:20:18 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puasa Day 4-6</title>
+      <link>http://localhost:1313/notes/posts/puasa-day-4-6/</link>
+      <pubDate>Tue, 24 Feb 2026 16:23:02 +0000</pubDate>
+      <guid>http://localhost:1313/notes/posts/puasa-day-4-6/</guid>
+      <description>&lt;p&gt;Haloo, heheheh.&lt;/p&gt;&#xA;&lt;p&gt;Sehatusnya ini sudah banyak tulisan, dikarenakan banyak hal yg terjadi, jadi stuck gini deh.&#xA;sebenarnya sudah ada tulisan dan emang sudah memulis di platfrom baru ini, tapi ada hal yg tidak di inginkan terjadi.&lt;/p&gt;&#xA;&lt;p&gt;Tiba-tiba tulisanku itu terhapus oleh AI, jadi saya badmood wkwk.&lt;/p&gt;&#xA;&lt;p&gt;Udah nulis eh malah dihapus, mana ga ada keterangan sama sekali kenapa bisa dibapus.&lt;/p&gt;&#xA;&lt;p&gt;Jadi saya memutuskan buat pindah aja dari platfrom itu, huft padahal udah enak seharusnya tapi ada semacam itu jadi kaya sia-sia kalo kita nuslis tapi ujung-ujungnya dihapus.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Puasa Day 3</title>
-      <link>http://localhost:1313/posts/puasa-day-3/</link>
+      <link>http://localhost:1313/notes/posts/puasa-day-3/</link>
       <pubDate>Sat, 21 Feb 2026 16:22:24 +0000</pubDate>
-      <guid>http://localhost:1313/posts/puasa-day-3/</guid>
+      <guid>http://localhost:1313/notes/posts/puasa-day-3/</guid>
       <description>&lt;img src=&#34;./cover.jpg&#34; alt=&#34;Teks Alternatif&#34;&gt;&lt;h1 id=&#34;puasa-day-three&#34;&gt;Puasa day Three&lt;/h1&gt;&#xA;&lt;p&gt;Wih udah hari ke-3 nih, gimana masih semangat kan?&lt;/p&gt;&#xA;&lt;p&gt;Masih seru kan hari ke-3, mulai sedikit orang dirumah karena pada balik ke tempatnya masing-masing hehe.&lt;/p&gt;&#xA;&lt;p&gt;Banyak yappingnya hari ini, karena kebetulan lagi senggang jadi ga ada terlalu banyak cerita.&lt;/p&gt;&#xA;&lt;p&gt;Segini aja yaa.&lt;/p&gt;&#xA;&lt;p&gt;Terimakasih 😁 😁&lt;/p&gt;</description>
     </item>
     <item>
       <title>Puasa Day 2</title>
-      <link>http://localhost:1313/posts/puasa-day-2/</link>
+      <link>http://localhost:1313/notes/posts/puasa-day-2/</link>
       <pubDate>Fri, 20 Feb 2026 16:22:12 +0000</pubDate>
-      <guid>http://localhost:1313/posts/puasa-day-2/</guid>
+      <guid>http://localhost:1313/notes/posts/puasa-day-2/</guid>
       <description>&lt;img src=&#34;./cover.jpg&#34; alt=&#34;Teks Alternatif&#34;&gt;&lt;h1 id=&#34;puasa-day-two&#34;&gt;Puasa day two&lt;/h1&gt;&#xA;&lt;p&gt;Alhamdulillah udah 2 hari aja puasanya.&lt;/p&gt;&#xA;&lt;p&gt;Gimana puasa kalian di hari kedua ini, tambah seru? Atau gimana?&lt;/p&gt;&#xA;&lt;p&gt;Kalo aku lumayan seru, mana hujan dari pagi lagi, jadi ga terlalu ingin minum.&lt;/p&gt;&#xA;&lt;p&gt;Hari ini juga hujan²an tadi habis nganterin adek balik ke pondok, jadi ga ramai lagi dirumah karena tidak ada yg di usulin heheh.&lt;/p&gt;&#xA;&lt;p&gt;Tadi juga sempat listriknya padam jadi pas terawah gelap jadi sepi deh.&lt;/p&gt;&#xA;&lt;p&gt;Tapi tetep seru, tadi mau buat postingan ini besok aja karena udah cape tapi aku sempetin sebentar aja hehe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Puasa Day 1</title>
-      <link>http://localhost:1313/posts/puasa-day-1/</link>
+      <link>http://localhost:1313/notes/posts/puasa-day-1/</link>
       <pubDate>Thu, 19 Feb 2026 15:20:18 +0000</pubDate>
-      <guid>http://localhost:1313/posts/puasa-day-1/</guid>
+      <guid>http://localhost:1313/notes/posts/puasa-day-1/</guid>
       <description>&lt;img src=&#34;./cover.jpg&#34; alt=&#34;Teks Alternatif&#34;&gt;&lt;h1 id=&#34;day-wan-puasa&#34;&gt;Day wan Puasa&lt;/h1&gt;&#xA;&lt;p&gt;Haloo, gimana puasa hari pertamanya? Lancar? Atau ada sesuatu yg mengganggu?&lt;/p&gt;&#xA;&lt;p&gt;Kalo aku sih yaa lumayan lah, mungkin karena terbiasa puasa jadi biasa aja heheh.&lt;/p&gt;&#xA;&lt;p&gt;Tapi ada serunya karena kalo puasa Ramadhan buka puasa sama-sama kalo biasanya kan sendiri.&lt;/p&gt;&#xA;&lt;p&gt;Puasa itu kita paling excited pas menjelang magrib aja, seru aja nungguin yg pasti 😅.&lt;/p&gt;&#xA;&lt;p&gt;Semoga kita lancar dan bisa terhindar dari godaan-godaan duniawi wkwk.&lt;/p&gt;&#xA;&lt;p&gt;Terimakasih, sampai bertemu di puasa dan two.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marhaban Tiba Marhaban Tiba</title>
-      <link>http://localhost:1313/posts/marhaban-tiba-marhaban-tiba/</link>
+      <link>http://localhost:1313/notes/posts/marhaban-tiba-marhaban-tiba/</link>
       <pubDate>Wed, 18 Feb 2026 16:15:59 +0000</pubDate>
-      <guid>http://localhost:1313/posts/marhaban-tiba-marhaban-tiba/</guid>
+      <guid>http://localhost:1313/notes/posts/marhaban-tiba-marhaban-tiba/</guid>
       <description>&lt;img src=&#34;./cover.jpeg&#34; alt=&#34;Teks Alternatif&#34;&gt;&lt;h1 id=&#34;marhaban-tiba-marhaban-tiba&#34;&gt;Marhaban tiba marhaban tiba&lt;/h1&gt;&#xA;&lt;p&gt;Alhamdulillah masih diberikan kesempatan buat bertemu bulan Ramadhan tahun ini.&lt;/p&gt;&#xA;&lt;p&gt;Semoga kita bisa ikut serta meramaikan puasa tahun ini, dan diberikan kelancaran.&lt;/p&gt;&#xA;&lt;p&gt;Rasanya begitu gembira ketika kita memasuki bulan Ramadhan, akan banyak kegiatan kegiatan dan mushola-mushola mulai ramai,waktu sore mulai rame.&lt;/p&gt;&#xA;&lt;p&gt;Semoga kita bisa beribadah dengan maksimal di bulan puasa tahun ini dan harus bisa menghindari hal-hal yg membuat kita tergoda imannya heheh.&lt;/p&gt;&#xA;&lt;p&gt;Selamat menjalankan ibadah puasa buat besok, dan selamat menjalankan ibadah puasa yg hari ini sudah puasa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mencari Maaf</title>
-      <link>http://localhost:1313/posts/mencari-maaf/</link>
+      <link>http://localhost:1313/notes/posts/mencari-maaf/</link>
       <pubDate>Mon, 02 Feb 2026 16:11:54 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mencari-maaf/</guid>
+      <guid>http://localhost:1313/notes/posts/mencari-maaf/</guid>
       <description>&lt;h1 id=&#34;mencari-maaf&#34;&gt;Mencari maaf&lt;/h1&gt;&#xA;&lt;p&gt;Hallo semuanya, ini postingan pertamaku di tempat yg baru dari &lt;a href=&#34;https://irha.my.id&#34;&gt;irha.my.id&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;malam ini tepat malam nisfu sya&amp;rsquo;ban, malam penuh ampunan.&lt;/p&gt;&#xA;&lt;p&gt;Yuk perbanyak doa dan ampunan di malam ini, karena ada beberapa malam yg doa² kita langsung di ijabah Allah.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Lima malam yang tidak akan ditolak doa di dalamnya: malam pertama bulan Rajab, malam Nisfu Sya&amp;rsquo;ban, malam Jumat, malam Idul Fitri, dan Malam Idul Adha&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Mari kita memohon ampunan pada sang pencipta.&lt;/p&gt;</description>
     </item>
   </channel>
