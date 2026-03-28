@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Notes Irham'
+theme = "nostyle"
+[params]
+# zenMode = true
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# Syntax highlighting
+customSyntaxHighlighting = true
+
+images = ["img/global-background.jpg"]
+
+author = "g1eny0ung"
+description = "The life record of g1eny0ung is presented here."
+avatar = "img/personal/avatar.jpg"
+headerTitle = "Notes Irham"
+motto = "Tulisan random。"
+
+hasCJKLanguage = true 
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
+[markup.highlight]
+noClasses = false
+
+# options
+stickyNav = true
+reorderNavItems = ["about", "search", "github", "posts", "categories", "tags", "rss"]
+collapseNavItems = ["posts", "categories", "tags", "rss"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
