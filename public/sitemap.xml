@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/posts/menitipkanmu/</loc>
+    <lastmod>2026-05-10T22:01:05+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/posts/</loc>
-    <lastmod>2026-02-26T15:20:18+00:00</lastmod>
+    <lastmod>2026-05-10T22:01:05+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/posts/hari-setelah-lebaran/</loc>
+    <lastmod>2026-04-01T15:30:25+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/posts/puasa-day-30/</loc>
+    <lastmod>2026-03-20T11:07:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/posts/puasa-day-10/</loc>
+    <lastmod>2026-02-28T13:36:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/posts/puasa-day-7/</loc>
+    <lastmod>2026-02-25T16:23:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/posts/puasa-day-4-6/</loc>
     <lastmod>2026-02-24T16:23:02+00:00</lastmod>
