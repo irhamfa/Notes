@@ -25,3 +25,6 @@ Atau aku yg salah? Aku yg sudah tau tak akan bisa masuk tapi tetap saja mengingi
 Iya mung itu, luka yg ku buat sendiri sekarang aku yg harus menanggungnya, mampus.
 
 Nikmati sampai benar-benar selesai.
+
+> Jangan sakitin dia ya bang, dia ninggalin saya biar bisa sama anda.
+
