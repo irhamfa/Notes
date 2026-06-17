@@ -2,6 +2,7 @@
 date = '2026-05-10T22:01:05+07:00'
 draft = false
 title = 'Menitipkanmu'
+url = "/p/menitipkanmu"
 +++
 Ku titipkan kamu pada doa semoga doa bisa menjagamu bisa melindungi mu.
 

@@ -2,6 +2,7 @@
 date = '2026-05-12T22:09:05+07:00'
 draft = false
 title = 'Ke(hilang)an'
+url = "/p/kehilangan"
 +++
 
 Emang sesuatu yg belum bener² jadi milik kita bisa disebut kehilangan? Sesuatu yg belum² kita pegang Dan  sudah memilih pergi bisa disebut kehilangan?

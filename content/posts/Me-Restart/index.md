@@ -2,6 +2,7 @@
 date = '2026-05-11T19:40:27+07:00'
 draft = false
 title = 'Me Restart'
+url = "/p/restart"
 +++
 
 Kadang handphone ataupun komputer kalo sudah terlalu lama dipakai suka menjadi lemot atau berjalan lambat, begitulah juga hidup kita.
