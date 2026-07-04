@@ -23,4 +23,4 @@ Emang kadang hal baik itu tak perlu di rencana agar terus bisa berjalan, cukup d
 
 Dan untuk sisa setengah lagu ke 2026, semoga masih diberi kesehatan panjang umur dan semoga banyak hal baik dan bertemu dg orang-orang baik di depan sana.
 
-Terimakasih buat semuanya orang yg kebetulan atau sengaja menemuiku, terimakasih sudah mau dan menyempatkan mampir, maaf (tempatnya) kurang bagus tapi nyaman kok buat sekedar ngobrol-ngobrol.
+Terimakasih buat semuanya orang yg kebetulan atau sengaja menemuiku, terimakasih sudah mau dan menyempatkan mampir, maaf "tempatnya" kurang bagus tapi nyaman kok buat sekedar ngobrol-ngobrol.
