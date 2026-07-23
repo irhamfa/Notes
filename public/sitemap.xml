@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/cermin/</loc>
-    <lastmod>2026-07-04T18:20:55+07:00</lastmod>
+    <loc>http://localhost:1313/notes/hari-ke-banyak/</loc>
+    <lastmod>2026-07-23T20:10:35+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/posts/</loc>
+    <lastmod>2026-07-23T20:10:35+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/cermin/</loc>
     <lastmod>2026-07-04T18:20:55+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/6-bulan/</loc>
@@ -14,7 +17,7 @@
     <loc>http://localhost:1313/notes/cemas/</loc>
     <lastmod>2026-06-29T11:47:46+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/p/konsisten/</loc>
+    <loc>http://localhost:1313/notes/konsisten/</loc>
     <lastmod>2026-06-16T08:53:34+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/p/kehilangan/</loc>

@@ -2,7 +2,7 @@
 date = '2026-06-16T08:53:34+07:00'
 draft = false
 title = 'Belajar Konsisten'
-url = "/p/konsisten"
+url = "konsisten"
 +++
 
 Hai...
