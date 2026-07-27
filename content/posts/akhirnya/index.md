@@ -1,7 +1,7 @@
 +++
 date = '2026-07-26T12:33:17+07:00'
 draft = false
-title = 'Day 1 yg ke-2
+title = 'Day 1 yg ke-2'
 url = "day-one"
 +++
 
