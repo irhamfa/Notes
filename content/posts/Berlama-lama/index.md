@@ -2,6 +2,7 @@
 date = '2026-09-13T07:05:16+07:00'
 draft = false
 title = 'Berlama Lama'
+url = "lama-lama"
 +++
 
 Halooo
