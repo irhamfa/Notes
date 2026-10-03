@@ -13,7 +13,7 @@
 title = "Notes"
 
   [entries.post_list]
-  limit = 8
+  limit = 12
   show_more = true
   show_more_text = "See more..."
   show_more_url = "posts"

@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/day-one/</loc>
-    <lastmod>2026-07-26T12:33:17+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/notes/posts/</loc>
+    <lastmod>2026-10-03T05:29:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/perjalanan-pulang-pergi/</loc>
+    <lastmod>2026-09-30T05:28:31+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/lama-lama/</loc>
+    <lastmod>2026-09-13T07:05:16+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/day-one/</loc>
     <lastmod>2026-07-26T12:33:17+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/hari-ke-banyak/</loc>
